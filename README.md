@@ -1,4 +1,4 @@
 # Spread Sheet and Json
 
-3 ejercicios encarados con Python y utilizando algunas apis de google
+3 ejercicios encarados con Python, JavaScript y utilizando algunas apis de google
 
